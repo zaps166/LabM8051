@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="cpu">Resources/cpu.png</file>
+        <file alias="REG51.INC">Resources/REG51.INC</file>
+        <file alias="send">Resources/send.png</file>
+        <file alias="document-new">Resources/document-new.png</file>
+        <file alias="document-open">Resources/document-open.png</file>
+        <file alias="document-save-as">Resources/document-save-as.png</file>
+        <file alias="document-save">Resources/document-save.png</file>
+        <file alias="window-close">Resources/window-close.png</file>
+        <file alias="debug-step-instruction">Resources/debug-step-instruction.png</file>
+        <file alias="run-build">Resources/run-build.png</file>
+        <file alias="system-run">Resources/system-run.png</file>
+        <file alias="DEMO.HEX">Resources/DEMO.HEX</file>
+        <file alias="breakpoint">Resources/breakpoint.png</file>
+    </qresource>
+</RCC>
